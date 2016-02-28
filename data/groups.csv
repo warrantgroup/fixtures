@@ -2,4 +2,5 @@ id, name
 1, Staff
 2, Customer
 3, Load Site
-4, Manufacturer
+4, Agents
+5, Manufacturer
