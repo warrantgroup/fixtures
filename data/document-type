@@ -1,1 +1,5 @@
-id, name
+id, name, document_format_id, direction
+1, File Cover, PRI, OUT
+2, Booking Confirmation, PRI, OUT
+3, House Bill, PRI, OUT
+4, Shipping Instruction, PRI, OUT
