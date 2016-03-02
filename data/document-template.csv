@@ -1,2 +1,2 @@
 id, document_format_id, name, path, document_type_id, default_template
-9, PRI, Shipping Instructions, "/modules/shipment/documents/templates/shipping-instruction.html", 4, 1
+9,PRI,"Shipping Instructions","/modules/shipment/documents/templates/shipping-instruction.html",4, 1
