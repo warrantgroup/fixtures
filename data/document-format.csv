@@ -1,4 +1,4 @@
-id, name
-EDI,Electronic Message
-MES,Email
-PRI,Print
+id, name, allow_print, allow_edit, allow_transmit, allow_email
+EDI,Electronic Message, 0, 1, 1, 0
+MES,Email, 0, 0, 0, 1
+PRI,Print, 1, 1, 0, 1
