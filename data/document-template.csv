@@ -1,5 +1,5 @@
 id, document_format_id, name, path, document_type_id, default_template
 9,PRI,"Shipping Instructions","shipping-instruction.html",4, 1
-10,PRI,"Merchant Haulage","merchant-haulage.html",5, 1
+10,PRI,"Merchant Haulage","merchant-haulage-booking.html",5, 1
 11,PRI,"Depot File Cover","depot-file-cover.html",1, 0
 12,PRI,"Pre Alert", "pre-alert.html",6, 1
