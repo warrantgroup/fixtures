@@ -1,2 +1,5 @@
 id, document_format_id, name, path, document_type_id, default_template
 9,PRI,"Shipping Instructions","/modules/shipment/documents/templates/shipping-instruction.html",4, 1
+10,PRI,"Merchant Haulage","/modules/shipment/documents/templates/merchant-haulage.html",5, 1
+11,PRI,"Depot File Cover","/modules/shipment/documents/templates/depot-file-cover.html",1, 0
+12,PRI,"Pre Alert", "/modules/shipment/documents/templates/pre-alert.html",6, 1
