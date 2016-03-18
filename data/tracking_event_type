@@ -1,0 +1,33 @@
+id,ansi_code,description,short_description
+1,A,Arrived,Arrived
+2,AE,Loaded on Vessel,Loaded on Vessel
+3,AL,Loaded on Rail,Loaded on Rail
+4,AM,Loaded on Truck,Loaded on Trunk
+5,AR,Rail arrival at destination intermodal ramp,Rail Arrival
+6,D,Completed unloading at delivery location,Completed Unload
+7,CR,Carrier Release,Carrier Release
+8,EE,Empty equipment dispatched,Empty dispatched
+9,I,In-gate,In-gate
+10,L,Loading,Loading
+11,OA,Out-gate,Out-gate
+12,RD,Return container,Return container
+13,T,At terminal; intra-terminal movement,At terminal
+14,UV,Unloaded from Vessel,Unloaded Vessel
+15,VA,Vessel arrival,Vessel Arrival
+16,VD,Vessel departure,Vessel Departure
+17,NO,FP,
+18,AV,Available for Delivery,Avaliable Delivery
+19,CT,Customs Released,Customs Released
+20,CU,Carrier and Customs Release,Carrier Release
+21,PA,"Customs hold , intensive examination",Customs Hold
+22,RL,Rail Departure,Rail Departure
+23,UR,Unload from Rail,Unload from Rail
+24,CD,"Received at Origin, Cargo Received at Place of Receipt",Received at Origin
+25,AG,Estimated Arrival,Estimated Arrival
+26,FT,Free Time Expired,Free Time Expired
+27,E,Estimated Arrival,Estimated Arrival
+28,C,Estimated Departure,Estimated Departur
+29,PQ,Customs Hold,Customs Hold
+30,U,Container Unloaded,Container Unloaded
+31,CO,Container Received,Container Received
+32,X1,Container Delivery,Container Delivery
