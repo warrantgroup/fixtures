@@ -1,4 +1,5 @@
 id, document_format_id, name, path, document_type_id, default_template
+1,PRI,"Ingot Legacy Document",,,1
 2,PRI,"Booking Confirmation", "booking-confirmation.html",2,1
 3,PRI,"Export File Cover","export-file-cover.html",1, 0
 4,PRI,"House Bill","house-bill.html",3,1
@@ -6,3 +7,6 @@ id, document_format_id, name, path, document_type_id, default_template
 10,PRI,"Merchant Haulage","merchant-haulage-booking.html",5, 1
 11,PRI,"Depot File Cover","depot-file-cover.html",1, 0
 12,PRI,"Pre Alert", "pre-alert.html",6, 1
+13,PRI,"Carrier Booking",,8,1
+14,PRI,"Certificate of Origin",,9,1
+15,PRI,"Non Conformance",,7,1
