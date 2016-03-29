@@ -7,4 +7,5 @@ id,name,document_format_id,direction
 6,Pre Alert,PRI,OUT
 7,Non Conformance Notice, PRI, OUT
 8,Carrier Booking, PRI, OUT
+9,Certificat of Origin, PRI, OUT
 
