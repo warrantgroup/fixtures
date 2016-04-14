@@ -1,7 +1,7 @@
 id,name,document_format_id,direction
 1,File Cover,PRI,OUT
 2,Booking Confirmation,PRI,OUT
-3,House Bill,PRI,OUT
+3,House Bill,PPR,OUT
 4,Shipping Instruction,PRI,OUT
 5,Merchant Haulage,PRI,OUT
 6,Pre Alert,PRI,OUT
