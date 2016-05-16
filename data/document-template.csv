@@ -4,7 +4,7 @@ id, document_format_id, name, path, document_type_id, default_template
 4,PPR,"House Bill","house-bill.html",3,1
 9,PRI,"Shipping Instructions","shipping-instruction.html",4, 1
 10,PRI,"Merchant Haulage","merchant-haulage-booking.html",5, 1
-11,PPR,"Depot File Cover","depot-file-cover.html",1, 0
+11,PRO,"Depot File Cover","depot-file-cover.html",1, 0
 12,PRI,"Pre Alert", "pre-alert.html",6, 1
 13,PRI,"Carrier Booking",,8,1
 14,PRI,"Certificate of Origin",,9,1
