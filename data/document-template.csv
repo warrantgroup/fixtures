@@ -16,4 +16,4 @@ id, document_format_id, name, path, document_type_id, default_template
 20,PRI,"Ingot Legacy - Pre Alert",,6,1
 21,PRI,"Ingot Legacy - Non Conformance",,7,1
 22,PRI,"Ingot Legacy - Carrier Booking Confirmation",,8,1
-23,PRI,"Ingot Legacy - Certificate of Origin",,9,1
+23,PPR,"Ingot Legacy - Certificate of Origin","certificate-origin.html",9,1
