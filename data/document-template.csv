@@ -7,7 +7,7 @@ id, document_role_id, name, path, document_type_id, default_template, document_s
 11,PRO,"Depot File Cover","depot-file-cover.html",1, 0, 
 12,PRI,"Pre Alert", "pre-alert.html",6, 1, 
 13,PRI,"Carrier Booking",,8,1, 
-14,PRI,"Certificate of Origin","certificate-origin.html",9,1, 
+14,PPR,"Certificate of Origin","certificate-origin.html",9,1, 
 15,PRI,"Non Conformance",,7,1, 
 16,PRI,"Ingot Legacy - Shipper Booking Confirmation",,2,1, 
 17,PRI,"Ingot Legacy - House Bill",,3,1, 
