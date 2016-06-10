@@ -5,6 +5,6 @@ id,name,document_format_id,direction
 4,Shipping Instruction,PRI,OUT
 5,Merchant Haulage,PRI,OUT
 6,Pre Alert,PRI,OUT
-7,Non Conformance Notice, PRI, OUT
-8,Carrier Booking, PRI, OUT
-9,Certificate of Origin, PRI, OUT
+7,Non Conformance Notice,PRI,OUT
+8,Carrier Booking,PRI,OUT
+9,Certificate of Origin,PRI,OUT
