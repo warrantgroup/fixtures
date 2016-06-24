@@ -8,3 +8,4 @@ id,name,document_format_id,direction
 7,Non Conformance Notice,PRI,OUT
 8,Carrier Booking,PRI,OUT
 9,Certificate of Origin,PRI,OUT
+10,Upload,PRI,IN
