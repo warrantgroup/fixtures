@@ -1,25 +1,25 @@
 id,document_role_id,name,path,document_type_id,default_template,document_schema_id,visible
-2,PRI,"Booking Confirmation","booking-confirmation.html",2,1,,1
-3,PRI,"Export File Cover","export-file-cover.html",1,1,,1
-4,PPR,"House Bill","house-bill.html",3,1,,1
-9,EDI,"Shipping Instructions","shipping-instruction.html",4,1,1,1
-10,EDI,"Merchant Haulage","merchant-haulage-booking.html",5,1,,1
-11,PRO,"Depot File Cover (Legacy)","depot-file-cover-legacy-1.html",1,0,,0
-12,PRI,"Pre Alert","pre-alert.html",6,1,,1
-13,PRI,"Carrier Booking",,8,1,,0
-14,PPR,"Certificate of Origin","certificate-origin.html",9,1,,1
-15,PRI,"Non Conformance",,7,1,,0
-16,PRI,"Ingot Legacy - Shipper Booking Confirmation",,2,1,,0
-17,PRI,"Ingot Legacy - House Bill",,3,1,,0
-18,PRI,"Ingot Legacy - Shipping Instruction",,4,1,,0
-19,PRI,"Ingot Legacy - Haulier Booking Confirmation",,5,1,,0
-20,PRI,"Ingot Legacy - Pre Alert",,6,1,,0
-21,PRI,"Ingot Legacy - Non Conformance",,7,1,,0
-22,PRI,"Ingot Legacy - Carrier Booking Confirmation",,8,1,,0
-23,PPR,"Ingot Legacy - Certificate of Origin",,9,1,,0
-24,EDI,"VGM",,11,1,0,0
-25 PRI,"FAK File Cover","fak-file-cover.html",1,0,,1
-26 PRO,"Depot File Cover","depot-file-cover.html",1,1,,1
-27 EDI,"Shipping Instruction (Back to Back)","shipping-instruction-btb.html",4,0,1,1
-28,PRI,"Pre Leg Information","preleg.html",10,1,0,0
-29,PRI,"Customs Information","customs.html",10,1,0,0
+2,PRI,"Booking Confirmation","booking-confirmation.html",2,1,0,1,
+3,PRI,"Export File Cover","export-file-cover.html",1,1,0,1,
+4,PPR,"House Bill","house-bill.html",3,1,0,1,
+9,EDI,"Shipping Instructions","shipping-instruction.html",4,1,1,1,
+10,EDI,"Merchant Haulage","merchant-haulage-booking.html",5,1,0,1,
+11,PRO,"Depot File Cover (Legacy)","depot-file-cover-legacy-1.html",1,0,0,0,
+12,PRI,"Pre Alert","pre-alert.html",6,1,0,1,
+13,PRI,"Carrier Booking",,8,1,0,0,
+14,PPR,"Certificate of Origin","certificate-origin.html",9,1,0,1,
+15,PRI,"Non Conformance",,7,1,0,0,
+16,PRI,"Ingot Legacy - Shipper Booking Confirmation",,2,1,0,0,
+17,PRI,"Ingot Legacy - House Bill",,3,1,0,0,
+18,PRI,"Ingot Legacy - Shipping Instruction",,4,1,0,0,
+19,PRI,"Ingot Legacy - Haulier Booking Confirmation",,5,1,0,0,
+20,PRI,"Ingot Legacy - Pre Alert",,6,1,0,0,
+21,PRI,"Ingot Legacy - Non Conformance",,7,1,0,0,
+22,PRI,"Ingot Legacy - Carrier Booking Confirmation",,8,1,0,0,
+23,PPR,"Ingot Legacy - Certificate of Origin",,9,1,0,0,
+24,EDI,"VGM",,11,1,0,0,
+25 PRI,"FAK File Cover","fak-file-cover.html",1,0,0,1,
+26 PRO,"Depot File Cover","depot-file-cover.html",1,1,0,1,
+27 EDI,"Shipping Instruction (Back to Back)","shipping-instruction-btb.html",4,0,1,1,
+28,PRI,"Pre Leg Information","preleg.html",10,1,0,0,
+29,PRI,"Customs Information","customs.html",10,1,0,0,
