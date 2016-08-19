@@ -1,12 +1,12 @@
-id,name,document_format_id,direction
-1,File Cover,PRI,OUT
-2,Booking Confirmation,PRI,OUT
-3,House Bill,PPR,OUT
-4,Shipping Instruction,PRI,OUT
-5,Merchant Haulage,PRI,OUT
-6,Pre Alert,PRI,OUT
-7,Non Conformance Notice,PRI,OUT
-8,Carrier Booking,PRI,OUT
-9,Certificate of Origin,PRI,OUT
-10,Upload,PRI,IN
-11,VGM,EDI,OUT
+id,name,document_format_id,direction,visible
+1,File Cover,PRI,OUT,1
+2,Booking Confirmation,PRI,OUT,1
+3,House Bill,PPR,OUT,1
+4,Shipping Instruction,PRI,OUT,1
+5,Merchant Haulage,PRI,OUT,1
+6,Pre Alert,PRI,OUT,1
+7,Non Conformance Notice,PRI,OUT,1
+8,Carrier Booking,PRI,OUT,1
+9,Certificate of Origin,PRI,OUT,1
+10,Upload,PRI,IN,1
+11,VGM,EDI,OUT,0
