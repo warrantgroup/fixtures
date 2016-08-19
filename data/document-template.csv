@@ -17,5 +17,6 @@ id, document_role_id, name, path, document_type_id, default_template, document_s
 21,PRI,"Ingot Legacy - Non Conformance",,7,1, 
 22,PRI,"Ingot Legacy - Carrier Booking Confirmation",,8,1, 
 23,PPR,"Ingot Legacy - Certificate of Origin",,9,1, 
-24,PRI,"Pre Leg Information",preleg.html,10,1,
-25,PRI,"Customs Information",customs.html,10,1,
+24,EDI,"VGM",,11,1,
+25,PRI,"Pre Leg Information",preleg.html,10,1,
+26,PRI,"Customs Information",customs.html,10,1,
