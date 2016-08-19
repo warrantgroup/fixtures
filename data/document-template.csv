@@ -18,8 +18,8 @@ id,document_role_id,name,path,document_type_id,default_template,document_schema_
 22,PRI,"Ingot Legacy - Carrier Booking Confirmation",,8,1,0,0
 23,PPR,"Ingot Legacy - Certificate of Origin",,9,1,0,0
 24,EDI,"VGM",,11,1,0,0
-25 PRI,"FAK File Cover","fak-file-cover.html",1,0,0,1
-26 PRO,"Depot File Cover","depot-file-cover.html",1,1,0,1
-27 EDI,"Shipping Instruction (Back to Back)","shipping-instruction-btb.html",4,0,1,1
+25, PRI,"FAK File Cover","fak-file-cover.html",1,0,0,1
+26, PRO,"Depot File Cover","depot-file-cover.html",1,1,0,1
+27, EDI,"Shipping Instruction (Back to Back)","shipping-instruction-btb.html",4,0,1,1
 28,PRI,"Pre Leg Information","preleg.html",10,1,0,0
 29,PRI,"Customs Information","customs.html",10,1,0,0
