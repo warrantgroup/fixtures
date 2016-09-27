@@ -10,3 +10,5 @@ id,name,document_format_id,direction,visible
 9,Certificate of Origin,PRI,OUT,1
 10,Upload,PRI,IN,1
 11,VGM,EDI,OUT,0
+12,Customs,EDI,IN,1
+13,Pre Leg,EDI,IN,1
