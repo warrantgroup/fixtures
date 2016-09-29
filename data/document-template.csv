@@ -24,4 +24,4 @@ id,document_role_id,name,path,document_type_id,default_template,document_schema_
 28,PRI,"Pre Leg Information","preleg.html",13,1,0,0
 29,PRI,"Customs Information","customs.html",12,1,0,0
 30,PRI,"Message Acknowledgement",,10,1,0,0
-31,PRI,"Container List","container-list.html",14,1,0,0
+31,PRO,"Container List","container-list.html",14,1,0,0
