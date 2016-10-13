@@ -6,5 +6,5 @@ id,name
 5,Rent Due Date
 6,Documents Sent Date
 7,Closing Date
-8,ETA Changed
-9,ETD Changed
+8,ETA
+9,ETD
